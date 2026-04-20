@@ -1,6 +1,12 @@
 ## Hi there 👋 I'm VINAYAK SAXENA
 🎓 Engineering Student | 💻 Tech Enthusiast | 🚀 Lifelong Learner
 
+🎓 Currently studying Mechanical Engineering at BML Munjal University
+🔬 Interested in Machine Learning, Robotics , and CAD
+🛠️ Building desktop applications with Python 
+🌱 Currently learning Autocad and Python
+⚡ Fun fact: I enjoy visualizing how things can work!
+
 <!--
 **vinayak0718/vinayak0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
