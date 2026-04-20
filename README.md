@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm VINAYAK SAXENA
-🎓 Engineering Student | 💻 Tech Enthusiast | 🚀 Lifelong Learner
+🎓 Engineering Student | 💻 Tech Enthusiast | 🚀 Lifelong Learner\
+##
 
 🎓 Currently studying Mechanical Engineering at BML Munjal University <br>
 🔬 Interested in Machine Learning, Robotics , and CAD <br>
