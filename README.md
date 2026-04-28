@@ -6,7 +6,10 @@
 🔬 Interested in Machine Learning, Robotics , and CAD <br>
 🛠️ Building desktop applications with Python <br>
 🌱 Currently learning Autocad and Python <br>
-⚡ Fun fact: I enjoy visualizing how things can work! <br>
+⚡ Fun fact: I enjoy visualizing how things can work! <br> 
+whehnenbv jefbw
+iwhdwihd
+jqwidiodbik w
 
 <!--
 **vinayak0718/vinayak0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
