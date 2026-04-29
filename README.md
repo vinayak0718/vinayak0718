@@ -9,7 +9,9 @@
 ⚡ Fun fact: I enjoy visualizing how thing can look and work <br> 
 ##
 
-![Github]( https://img.shields.io/badge/github-repo-blue?logo=github)   ![Python](https://img.shields.io/badge/Python-blue)  ![ PANDA](https://img.shields.io/badge/PANDA-red)
+![Github]( https://img.shields.io/badge/github-repo-blue?logo=github)   ![Python](https://img.shields.io/badge/Python-blue)  ![ PANDA](https://img.shields.io/badge/PANDA-red)![AutoCAD](https://img.shields.io/badge/AutoCAD-Crimson) ![TinkerCAD ](https://img.shields.io/badge/TinkerCAD-grey)
+ 
+
 
 
 <!--
