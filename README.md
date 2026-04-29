@@ -4,14 +4,11 @@
 
 🎓 Currently studying Mechanical Engineering at BML Munjal University <br>
 🔬 Interested in Machine Learning, Robotics , and CAD <br>
-🛠️ Building desktop applications with Python <br>
+🛠️ Building autocad models on autoCAD  <br>
 🌱 Currently learning Autocad and Python <br>
-⚡ Fun fact: I enjoy visualizing how things can work! <br> 
-whehnenbv jefbw
-iwhdwihd
-jqwidiodbik w
-
+⚡ Fun fact: I enjoy visualizing how thing can look and work <br> 
 <!--
+##
 **vinayak0718/vinayak0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
