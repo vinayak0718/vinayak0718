@@ -9,7 +9,7 @@
 ⚡ Fun fact: I enjoy visualizing how thing can look and work <br> 
 ##
 
-![Python](https://shield.io) ![C](https://shield.io)
+![Github]( https://img.shields.io/badge/github-repo-blue?logo=github) ![C](https://shield.io)
 <!--
 **vinayak0718/vinayak0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
